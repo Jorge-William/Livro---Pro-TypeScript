@@ -1,4 +1,4 @@
-// Com isso podemos criar novos 'tipos'
+// Com isso, podemos criar novos 'tipos'
 type TipoPessoa = {
     nome: string,
     alturaEmCm: number

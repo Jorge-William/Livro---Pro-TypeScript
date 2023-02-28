@@ -30,4 +30,4 @@ monumentos.push({
     alturaEmMetros: 50
 })
 
-console.log(monumentos[2].nome)
+console.log(monumentos[2].nome);
