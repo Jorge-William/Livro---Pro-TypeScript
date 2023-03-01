@@ -2,8 +2,8 @@
 // fornecidos
 
 interface InterfacePessoa {
-    nome: string,
-    matricula: number
+    nome: string;
+    matricula: number;
 }
 
 const pessoaEstudante: InterfacePessoa = {
